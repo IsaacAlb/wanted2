@@ -1,0 +1,57 @@
+
+@font-face{
+	font-family: wbang;
+	src: url(WesternBangBang-regular.ttf)
+
+}
+@font-face{
+	font-family: doc;
+	src: url(docktrin.ttf);
+}
+body{
+	width: 400px;
+	height: 600px;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 0 auto;
+	background-color: #D8D8BF;
+	text-align: center;
+}
+h1 {
+	color: darkred;
+	font-family: wbang;
+	font-size: 60px;
+}
+
+.dead-or-alive{
+	font-family: doc;
+	font-size: 20px;
+	color: black;
+}
+
+h2 {
+	font-family: wbang;
+	font-size: 28px;
+}
+
+
+h3 {
+	font-family: doc;
+	font-size: 28px;
+}
+
+h4 {
+	font-family: doc;
+	font-size: 20px;
+	color: darkred;
+}
+.disc  {
+	font-family: doc;
+	font-size: 16px;
+	color: black;
+}
+.numero {
+	font-family: wbang;
+	font-size: 20px;
+	color: black;
+}
